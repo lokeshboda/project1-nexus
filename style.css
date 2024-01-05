@@ -8,9 +8,12 @@
 }
 
 .container{
+    background-image: url("360_F_355607062_zYMS8jaz4SfoykpWz5oViRVKL32IabTP.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
     height: 100vh;
     width: 100%;
-    background-color: #4070f4;
     display: flex;
     align-items: center;
     justify-content: center;
